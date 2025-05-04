@@ -1,2 +1,2 @@
 # firstProject
-author-Tanish kumar
+author-Tanish
